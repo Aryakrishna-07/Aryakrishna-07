@@ -1,0 +1,42 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#160D13"/>
+    <stop offset="0.48" stop-color="#351522"/>
+    <stop offset="1" stop-color="#120B10"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#B85C75" stop-opacity=".18"/>
+    <stop offset=".5" stop-color="#F2A7B5" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#6E3044" stop-opacity=".22"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="25"/></filter>
+</defs>
+
+<rect width="1200" height="270" rx="24" fill="url(#bg)"/>
+<ellipse cx="180" cy="65" rx="210" ry="100" fill="#A74661" fill-opacity=".20" filter="url(#blur)"/>
+<ellipse cx="1020" cy="220" rx="250" ry="120" fill="#7A2947" fill-opacity=".18" filter="url(#blur)"/>
+
+<!-- mountains -->
+<path d="M0 220L170 125L270 190L410 90L550 205L700 115L850 210L1010 105L1200 205V270H0V220Z" fill="#1A0F17"/>
+<path d="M0 235L170 155L275 210L410 125L555 225L700 145L850 225L1010 135L1200 220V270H0V235Z" fill="#24131D"/>
+
+<!-- moon -->
+<circle cx="1010" cy="72" r="30" fill="#F2A7B5"/>
+<circle cx="1023" cy="60" r="30" fill="#351522"/>
+
+<!-- stars -->
+<g fill="#F6C3CC">
+  <circle cx="170" cy="48" r="2"/>
+  <circle cx="295" cy="72" r="2"/>
+  <circle cx="520" cy="42" r="2"/>
+  <circle cx="760" cy="67" r="2"/>
+  <circle cx="1110" cy="125" r="2"/>
+</g>
+
+<!-- subtle decorative lines -->
+<path d="M75 58h115M1010 190h115" stroke="#F2A7B5" stroke-opacity=".45"/>
+<text x="80" y="105" fill="#F2A7B5" font-family="Georgia, serif" font-size="20">just a girl with big ideas ✦</text>
+<text x="80" y="165" fill="#FFF4F6" font-family="Arial, sans-serif" font-size="42" font-weight="700">ARYA KRISHNA CS</text>
+<text x="82" y="198" fill="#D9B8C0" font-family="Arial, sans-serif" font-size="20">Computer Engineering Student · Developer · Builder</text>
+</svg>
