@@ -20,9 +20,9 @@ I enjoy turning ideas into **working projects**, especially when they involve **
 
 ## 🚀 CURRENTLY
 
-- 🤖 Building AI-powered applications
+- 🤖 Building AI powered applications
 - 🧠 Exploring Generative AI through projects
-- 🌐 Working on full-stack applications
+- 🌐 Working on full stack applications
 - 💡 Turning hackathon ideas into actual products
 
 ---
@@ -43,15 +43,15 @@ I enjoy turning ideas into **working projects**, especially when they involve **
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 RiskGuard AI
+### 🚢 Project 44 
 
-**AI-powered maritime risk intelligence platform.**
+**AI powered logistics intelligence platform.**
 
-A web application designed to assess and explain maritime shipping risks using machine learning and AI-powered reasoning.
+Connects global disruption signals such as conflicts, extreme weather and port disruptions to shipping routes, ports and chokepoints  turning them into actionable risk and rerouting insights.
 
-**Stack:** React · TypeScript · FastAPI · ML
+**Stack:** React · TypeScript · FastAPI · ML/AI · Mapping
 
-[**View Repository →**](https://github.com/Aryakrishna-07/RiskGuard-AI)
+[**View Repository →**](https://github.com/Team-Brain-exe/Project-44)
 
 </td>
 
@@ -59,13 +59,15 @@ A web application designed to assess and explain maritime shipping risks using m
 
 ### 🏥 PHC SupplyChain
 
-**Healthcare supply-chain monitoring platform.**
+**Healthcare supply chain monitoring platform.**
 
-A project focused on monitoring healthcare supply chains and helping identify potential issues through data-driven insights.
+A data-driven platform focused on monitoring healthcare supply chains, identifying disruptions and anomalies, and helping teams make better operational decisions.
 
-**Stack:** React · Python · FastAPI · SQL
+**Built with:** Team Brain.exe
 
-[**View Repository →**](https://github.com/Aryakrishna-07/PHC-SupplyChain)
+**Stack:** React · Python · FastAPI · SQL · ML
+
+[**View Repository →**](https://github.com/Team-Brain-exe/PHC-SupplyChain)
 
 </td>
 </tr>
@@ -73,7 +75,23 @@ A project focused on monitoring healthcare supply chains and helping identify po
 
 ---
 
-<div align="center">
+## 🧠 TEAM BRAIN.EXE
+
+> **Four people. One brain.exe. A lot of ideas.**
+
+Team Brain.exe is a team of four developers who love turning ideas and problem statements into things we can actually build, test, break, fix, and improve.
+
+We've worked together across **AI, logistics, healthcare, full stack development, and data driven applications** building projects, experimenting with new ideas, and learning from every one of them.
+
+### 💻 What we do
+
+**AI & Machine Learning** · **Full Stack Development** · **Generative AI** · **Data Driven Applications** · **Problem Solving**
+
+<br>
+
+[**Visit Team Brain.exe →**](https://github.com/Team-Brain-exe)
+
+---
 
 ### Let's build something interesting.. ♡
 
